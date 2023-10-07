@@ -1,8 +1,7 @@
 #include <stdio.h> 
-  
 int main() 
-{ 
-    // print name 
-    printf("Name : GeeksforGeeks"); 
-    return 0; 
+{
+// print name 
+printf("Name : GeeksforGeeks"); 
+return 0; 
 }
